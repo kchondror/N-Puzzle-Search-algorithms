@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1617551555 source:c:\users\acer\documents\codeblocks projects\a.i\ex.1 a.i.\box.cpp
+	"Box.h"
+	"Board.h"
+
+1617551555 c:\users\acer\documents\codeblocks projects\a.i\ex.1 a.i.\box.h
+	<iostream>
+
+1617551555 c:\users\acer\documents\codeblocks projects\a.i\ex.1 a.i.\board.h
+	<iostream>
+	<queue>
+	<stack>
+	"Box.h"
+
+1617551979 source:c:\users\acer\documents\codeblocks projects\a.i\ex.1 a.i.\main.cpp
+	<iostream>
+	<unordered_map>
+	<queue>
+	<stack>
+	<algorithm>
+	"Box.h"
+	"Board.h"
+
+1617551599 source:c:\users\acer\documents\codeblocks projects\a.i\ex.1 a.i.\board.cpp
+	"Board.h"
+	<math.h>
+
+1617913453 source:c:\users\acer\documents\codeblocks projects\a.i\a.i. 1st project\box.cpp
+	"Box.h"
+	"Board.h"
+
+1617919130 c:\users\acer\documents\codeblocks projects\a.i\a.i. 1st project\box.h
+	<iostream>
+
+1617918636 c:\users\acer\documents\codeblocks projects\a.i\a.i. 1st project\board.h
+	<iostream>
+	<queue>
+	<math.h>
+	"Box.h"
+
+1617918636 source:c:\users\acer\documents\codeblocks projects\a.i\a.i. 1st project\main.cpp
+	<iostream>
+	<unordered_map>
+	<queue>
+	<stack>
+	<algorithm>
+	"Box.h"
+	"Board.h"
+
+1617919121 source:c:\users\acer\documents\codeblocks projects\a.i\a.i. 1st project\board.cpp
+	"Board.h"
+
+1617988426 source:c:\users\acer\documents\c(++)\a.i\a.i. 1st project\board.cpp
+	"Board.h"
+
+1617983814 c:\users\acer\documents\c(++)\a.i\a.i. 1st project\board.h
+	<iostream>
+	<queue>
+	<math.h>
+	"Box.h"
+
+1617919130 c:\users\acer\documents\c(++)\a.i\a.i. 1st project\box.h
+	<iostream>
+
+1617919130 source:c:\users\acer\documents\c(++)\a.i\a.i. 1st project\box.cpp
+	"Box.h"
+	"Board.h"
+
+1617991224 source:c:\users\acer\documents\c(++)\a.i\a.i. 1st project\main.cpp
+	<iostream>
+	<unordered_map>
+	<queue>
+	<stack>
+	<algorithm>
+	<chrono>
+	<ctime>
+	"Box.h"
+	"Board.h"
+
